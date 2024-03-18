@@ -1,0 +1,50 @@
+Name: nikhil
+Age: 18
+Location to Reach: ruia
+Contact Number: college
+----------------------------------
+Name: nikil
+Age: 12
+Location to Reach: nn
+Contact Number: 87839838273
+----------------------------------
+Name: nikhil
+Age: 18
+Location to Reach: cs
+Contact Number: it
+----------------------------------
+Name: nikhil
+Age: 18
+Location to Reach: lab
+Contact Number: 9167534578
+----------------------------------
+Name: ani
+Age: 20
+Location to Reach: ruia
+Contact Number: 91675127512
+----------------------------------
+Name: nikhil
+Age: 18
+Location to Reach: ruia
+Contact Number: 9876555
+----------------------------------
+Name: nikhli
+Age: 12
+Location to Reach: hsd
+Contact Number: 111111111
+----------------------------------
+Name: nikhil
+Age: 17
+Location to Reach: nn
+Contact Number: 11111111
+----------------------------------
+Name: nikhil
+Age: 12
+Location to Reach: nn
+Contact Number: 2222222
+----------------------------------
+Name: mikhil
+Age: 16
+Location to Reach: ruia
+Contact Number: college
+----------------------------------
